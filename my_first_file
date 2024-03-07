@@ -2,7 +2,8 @@
 using namespace std;
 int main()
 {
-cout<<"The Addition of Two Numbers are":<<a+b;
+cout<<"The Addition of Two Numbers are:"<<a+b;
+cout<<"The Subtraction of two Numbers are:"<<a-b;
 
 return 0;
 }
