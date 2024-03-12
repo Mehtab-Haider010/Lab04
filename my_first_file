@@ -2,8 +2,10 @@
 using namespace std;
 int main()
 {
-cout<<"The Addition of Two Numbers are:"<<a+b;
-cout<<"The Subtraction of two Numbers are:"<<a-b;
+cout<<"my name is sohail maqsood"<<endl;
+cout<<"my roll number is 23-st-014"<<endl;
+cout<<"The Addition of Two Numbers are:"<<a+b:<<endl;
+cout<<"The Subtraction of two Numbers are:"<<a-b:<<endl;
 
 return 0;
 }
